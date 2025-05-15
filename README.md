@@ -27,8 +27,3 @@ As part of my SEO specialization, I developed a fully functional WordPress websi
 - Understanding of keyword search intent
 - Structuring content for both users and search engines
 - Building clean, crawlable site structures
-
-## 📌 Future Plans
-- Add more blog posts based on long-tail keywords
-- Optimize performance (speed, mobile, accessibility)
-- Explore structured data with schema markup
