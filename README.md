@@ -3,7 +3,7 @@
 ## 🔗 Live Project
 👉 [View the live website](https://fastway.dainele.eu/)
 
-![Meta tags](./images/Meta tags_descriptions_category.png)
+![Meta tags](images/meta_category.png)
 
 
 ## 🎯 Objective
