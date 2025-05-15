@@ -27,3 +27,6 @@ As part of my SEO specialization, I developed a fully functional WordPress websi
 - Understanding of keyword search intent
 - Structuring content for both users and search engines
 - Building clean, crawlable site structures
+
+## 📁 Repository Includes
+- Screenshots
