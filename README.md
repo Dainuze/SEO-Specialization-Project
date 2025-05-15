@@ -3,11 +3,6 @@
 ## 🔗 Live Project
 👉 [View the live website](https://fastway.dainele.eu/)
 
-![Meta tags](images/meta_category.png)
-
-![Yoast SEO](images/yoast_seo_product.png)
-
-
 ## 🎯 Objective
 As part of my SEO specialization, I developed a fully functional WordPress website to demonstrate SEO strategy implementation. This includes keyword research, competitor analysis, optimized content, and category page SEO.
 
